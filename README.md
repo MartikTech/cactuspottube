@@ -22,7 +22,3 @@ The images of the project and the steps I took are available to view in blueprin
 ![Image6](/images/image6.png)  
 
 ![Image7](/images/image7.png)  
-
-Here is a screen shot of the 'cart'
-
-![Cart](/images/image.jpg)  
